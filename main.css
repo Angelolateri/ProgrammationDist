@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#toolbar{
+    background-color: gray;
+}
+#toolbar nav{
+    background-color: antiquewhite;
+    width: 80%;
+    margin: auto;
+}
+
+#toolbar ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    gap: 24px;
+}
+
+#toolbar a{
+    text-decoration: none;
+    list-style: none;
+}
+
